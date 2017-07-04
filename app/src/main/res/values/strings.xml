@@ -1,3 +1,6 @@
 <resources>
-    <string name="app_name">week07-day02-word-counter</string>
+    <string name="app_name">Word Counter</string>
+    <string name="word_list">Enter words here</string>
+    <string name="count_button">Count Words</string>
+    <!--<string name="count_text">Word count is ... </string>-->
 </resources>
